@@ -1,0 +1,40 @@
+.tahomafont {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.biggestdeal {
+  font-family: Arial;
+  font-size: 40px;
+  font-weight: bold;
+  line-height: 30px;
+}
+
+.salesendtuesday {
+  font-style: italic;
+  font-size: 20px;
+  font-weight: normal;
+  color: red;
+}
+
+.htmlcourse {
+  font-size: 22px;
+  line-height: 0px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+}
+
+.btp {
+  color: grey;
+  font-size: 20px;
+  line-height: 4px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  line-height: 39px;
+}
+
+.desc {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+  width: 350px;
+}
